@@ -1,0 +1,45 @@
+.back{
+	padding: 10px;
+	background-color: blue;
+}
+
+.head{
+	background-color: red;
+	margin: 10px;
+	padding: 5px;
+	width: 1080px;
+
+}
+h1{
+	color: white; 
+}
+.navigation{
+	text-decoration: underline;
+	background-color: green;
+	display: inline-block;
+	vertical-align: top;
+	padding: 5px;
+	width:250px;
+	margin: 10px;
+
+}
+.main{
+	background-color: black;
+	display: inline-block;
+	width: 800px;
+	margin: 10px;
+	vertical-align: top;
+	color: white;
+	padding: 5px;
+}
+.swag{
+	display: block;
+	background-color: gray;
+	color: white;
+	padding: 5px;
+	margin: 10px;
+	width: 1080px;
+}
+.block{
+	margin: 10px;
+}
